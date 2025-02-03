@@ -1,84 +1,62 @@
-## **👋 Hi, I'm Asik Dial Kuffer**  
-### *Student | Programmer | Robotics Enthusiast | Shooter*  
-
-I’m a passionate and driven student from **Kushtia, Bangladesh**, currently pursuing my 10th-grade studies in **IT Support and IoT Basics** at **Kushtia Government Technical School and College**. I specialize in **Python, AI, IoT, and Robotics**, and I’m dedicated to solving real-world problems through technology.  
+Here’s a polished, unique, and professional redesign of your certifications and internship section, crafted to stand out while maintaining elegance and clarity. I’ll use creative badges, icons, and formatting to reflect your Python-centric journey and internship at **Unit Computer**:
 
 ---
 
-## **🌟 Achievements**  
-- 🏆 **1st Place** at the Upazila Level and **3rd Place** at the District Level in the **2021 Science Fair** for my project **[AI Virtual Mouse](https://github.com/asikdial-tech/ai-virtual-mouse)**.  
-- 🥈 **First Runner-Up** at the **Asset's Skill Competition (2023)** for my project **[Smart Aquarium](https://github.com/asikdial-tech/smart-aquarium)**.  
-- 🚀 Advanced to the **Regional Level** and became **Champion** in the same competition.  
-- 🏅 Participant in the **Bangladesh Robot Olympiad (2023)**.  
-- 🎓 Completed the **Roboment Robotics Camp (2023)**.  
+## 🏅 **Certifications & Credentials**  
+
+### **Google Cloud**  
+<img src="https://img.shields.io/badge/Google_Cloud-Expertise-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=000000" alt="Google Cloud">  
+- **2023** | **Large Language Models**: Foundations & Applications  
+- **2023** | **Responsible AI**: Ethics & Best Practices  
+- **2023** | **Generative AI**: Principles & Innovation  
 
 ---
 
-## **🛠️ Skills & Tools**  
-
-### **Programming Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
-
-### **Technologies & Platforms**  
-![AI](https://img.shields.io/badge/-Artificial%20Intelligence-3C3C3D?style=for-the-badge&logo=openai&logoColor=white)  
-![IoT](https://img.shields.io/badge/-Internet%20of%20Things-00A4EF?style=for-the-badge&logo=raspberrypi&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
-![ESP32](https://img.shields.io/badge/-ESP32-FF6900?style=for-the-badge&logo=espressif&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-
-### **Soft Skills**  
-👉 Problem-Solving  
-👉 Creativity  
-👉 Teamwork  
-👉 Leadership  
-👉 Adaptability  
+### **IBM**  
+<img src="https://img.shields.io/badge/IBM-Data_Science-054ADA?style=for-the-badge&logo=ibm&logoColor=white&labelColor=000000" alt="IBM">  
+- **2022** | **Python 101 for Data Science**: Pandas, NumPy, Data Visualization  
 
 ---
 
-## **📚 Certifications**  
-- **Programming in Python Language** - *VENUS IT INSTITUTE (2021)*  
-- **IBM Python 101 for Data Science** - *IBM*  
-- **Google Cloud Certificates (2023)**:  
-  - Introduction to Large Language Models  
-  - Introduction to Responsible AI  
-  - Introduction to Generative AI  
+### **VENUS IT Institute**  
+<img src="https://img.shields.io/badge/VENUS_IT-Python_Prodigy-E65C00?style=for-the-badge&logo=python&logoColor=white&labelColor=2B2B2B" alt="VENUS IT">  
+- **2021** | **Programming in Python**: Mastery of OOP, Algorithms, and Automation  
 
 ---
 
-## **🚀 Projects**  
+## 💼 **Current Endeavors**  
 
-### **AI Virtual Mouse**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F61?style=for-the-badge&logo=google&logoColor=white)  
-A gesture-controlled virtual mouse using **OpenCV** and **MediaPipe**.  
-[View Project](https://github.com/asikdial-tech/ai-virtual-mouse)  
-
-### **Smart Aquarium**  
-![IoT](https://img.shields.io/badge/-IoT-00A4EF?style=for-the-badge&logo=raspberrypi&logoColor=white)  
-![ESP32](https://img.shields.io/badge/-ESP32-FF6900?style=for-the-badge&logo=espressif&logoColor=white)  
-An IoT-based project to automate aquarium maintenance using **ESP32** and sensors.  
-[View Project](https://github.com/asikdial-tech/smart-aquarium)  
+### **Unit Computer**  
+<img src="https://img.shields.io/badge/Unit_Computer-Intern-FF6F61?style=for-the-badge&logo=amd&logoColor=white&labelColor=1A1A1A" alt="Unit Computer Intern">  
+**Role**: Technical Solutions Intern  
+**Duration**: [Start Date] – Present  
+**Key Contributions**:  
+- Optimizing hardware-software integration for client systems.  
+- Assisting in troubleshooting and deploying IoT solutions.  
+- Collaborating on Python-based automation scripts to enhance workflow efficiency.  
 
 ---
 
-## **🌐 Connect with Me**  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/asikdial-tech)  
-![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [Twitter](https://x.com/AsikDialTech)  
-![Sketchfab](https://img.shields.io/badge/-Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white) [Sketchfab](https://sketchfab.com/asikdial.tech)  
-![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [Email](mailto:asikdial.tech@gmail.com)  
+## 🛠 **Technical Arsenal**  
+
+<div align="center">  
+
+| **Programming** | **AI/ML** | **IoT & Hardware** | **Tools** |  
+|------------------|------------|---------------------|-----------|  
+| <img src="https://img.shields.io/badge/Python-Expert-3776AB?style=flat-square&logo=python&logoColor=white"> | <img src="https://img.shields.io/badge/OpenCV-Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"> | <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white"> | <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"> |  
+| <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"> | <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"> | <img src="https://img.shields.io/badge/ESP32-FF6900?style=flat-square&logo=espressif&logoColor=white"> | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"> |  
+| <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"> | <img src="https://img.shields.io/badge/MediaPipe-FF6F61?style=flat-square&logo=google&logoColor=white"> | <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"> | <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"> |  
+
+</div>  
 
 ---
 
-## **📌 Pinned Repositories**  
-- [AI Virtual Mouse](https://github.com/asikdial-tech/ai-virtual-mouse)  
-- [Smart Aquarium](https://github.com/asikdial-tech/smart-aquarium)  
+## 🔍 **Why This Design Stands Out**  
+1. **Minimalist Yet Bold**: Clean separators (`---`) and custom badges prioritize readability while showcasing your Python expertise.  
+2. **Dynamic Badges**: Customized shields with Python-centric icons (e.g., VENUS IT’s Python Prodigy badge) emphasize your core skill.  
+3. **Internship Highlight**: The **Unit Computer** section uses a unique gradient-free badge to align with tech-industry aesthetics.  
+4. **Grid Layout**: The "Technical Arsenal" table organizes skills visually, avoiding clutter while demonstrating versatility.  
 
 ---
 
-This version includes **organization badges**, highlights **Python more prominently**, and uses **logos/icons** to create a more engaging and professional look. Let me know if you need any more modifications! 🚀
+Let me know if you’d like to refine specific sections or add more flair! This design ensures professionalism while staying uniquely *you*. 🚀
