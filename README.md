@@ -1,22 +1,84 @@
-# Hi, I'm Asik Dial Kuffer 👋
+## **👋 Hi, I'm Asik Dial Kuffer**  
+### *Student | Programmer | Robotics Enthusiast | Shooter*  
 
-I'm a student, programmer, and robotics enthusiast from Kushtia, Bangladesh. I’m passionate about AI, IoT, and solving real-world problems through technology. Here’s a bit about me:
+I’m a passionate and driven student from **Kushtia, Bangladesh**, currently pursuing my 10th-grade studies in **IT Support and IoT Basics** at **Kushtia Government Technical School and College**. I specialize in **Python, AI, IoT, and Robotics**, and I’m dedicated to solving real-world problems through technology.  
 
-- 🏆 **Achievements**:  
-  - 1st place at the upazila level and 3rd place at the district level in the 2021 Science Fair for my **AI Virtual Mouse** project.  
-  - First Runner-Up at the Asset's Skill Competition (2023) for my **Smart Aquarium** project.  
-  - Participant in the **Bangladesh Robot Olympiad (2023)**.  
-- 🔧 **Skills**: Python, OpenCV, MediaPipe, MicroPython, HTML, CSS, Linux OS.  
-- 📜 **Certifications**: Python Programming, IBM Python 101 for Data Science, Google Cloud Certificates (Generative AI, LLMs, Responsible AI).  
-- 🌱 **Currently Learning**: Advanced AI and IoT concepts.  
+---
 
-### Projects
-- [AI Virtual Mouse](https://github.com/asikdial-tech/ai-virtual-mouse): Control your mouse with hand gestures using OpenCV and MediaPipe.  
-- [Smart Aquarium](https://github.com/asikdial-tech/smart-aquarium): An IoT-based project to automate aquarium maintenance.  
+## **🌟 Achievements**  
+- 🏆 **1st Place** at the Upazila Level and **3rd Place** at the District Level in the **2021 Science Fair** for my project **[AI Virtual Mouse](https://github.com/asikdial-tech/ai-virtual-mouse)**.  
+- 🥈 **First Runner-Up** at the **Asset's Skill Competition (2023)** for my project **[Smart Aquarium](https://github.com/asikdial-tech/smart-aquarium)**.  
+- 🚀 Advanced to the **Regional Level** and became **Champion** in the same competition.  
+- 🏅 Participant in the **Bangladesh Robot Olympiad (2023)**.  
+- 🎓 Completed the **Roboment Robotics Camp (2023)**.  
 
-### Let’s Connect
-- 📧 Email: [asikdial.tech@gmail.com](mailto:asikdial.tech@gmail.com)  
-- 🐦 Twitter: [@AsikDialTech](https://x.com/AsikDialTech)  
-- 🎨 Sketchfab: [asikdial.tech](https://sketchfab.com/asikdial.tech)  
+---
 
-⭐ Feel free to explore my repositories and reach out if you’d like to collaborate!
+## **🛠️ Skills & Tools**  
+
+### **Programming Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![Visual Basic](https://img.shields.io/badge/-Visual%20Basic-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+
+### **Technologies & Platforms**  
+![AI](https://img.shields.io/badge/-Artificial%20Intelligence-3C3C3D?style=for-the-badge&logo=openai&logoColor=white)  
+![IoT](https://img.shields.io/badge/-Internet%20of%20Things-00A4EF?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
+![ESP32](https://img.shields.io/badge/-ESP32-FF6900?style=for-the-badge&logo=espressif&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+### **Soft Skills**  
+👉 Problem-Solving  
+👉 Creativity  
+👉 Teamwork  
+👉 Leadership  
+👉 Adaptability  
+
+---
+
+## **📚 Certifications**  
+- **Programming in Python Language** - *VENUS IT INSTITUTE (2021)*  
+- **IBM Python 101 for Data Science** - *IBM*  
+- **Google Cloud Certificates (2023)**:  
+  - Introduction to Large Language Models  
+  - Introduction to Responsible AI  
+  - Introduction to Generative AI  
+
+---
+
+## **🚀 Projects**  
+
+### **AI Virtual Mouse**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![MediaPipe](https://img.shields.io/badge/-MediaPipe-FF6F61?style=for-the-badge&logo=google&logoColor=white)  
+A gesture-controlled virtual mouse using **OpenCV** and **MediaPipe**.  
+[View Project](https://github.com/asikdial-tech/ai-virtual-mouse)  
+
+### **Smart Aquarium**  
+![IoT](https://img.shields.io/badge/-IoT-00A4EF?style=for-the-badge&logo=raspberrypi&logoColor=white)  
+![ESP32](https://img.shields.io/badge/-ESP32-FF6900?style=for-the-badge&logo=espressif&logoColor=white)  
+An IoT-based project to automate aquarium maintenance using **ESP32** and sensors.  
+[View Project](https://github.com/asikdial-tech/smart-aquarium)  
+
+---
+
+## **🌐 Connect with Me**  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/asikdial-tech)  
+![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white) [Twitter](https://x.com/AsikDialTech)  
+![Sketchfab](https://img.shields.io/badge/-Sketchfab-1CAAD9?style=for-the-badge&logo=sketchfab&logoColor=white) [Sketchfab](https://sketchfab.com/asikdial.tech)  
+![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [Email](mailto:asikdial.tech@gmail.com)  
+
+---
+
+## **📌 Pinned Repositories**  
+- [AI Virtual Mouse](https://github.com/asikdial-tech/ai-virtual-mouse)  
+- [Smart Aquarium](https://github.com/asikdial-tech/smart-aquarium)  
+
+---
+
+This version includes **organization badges**, highlights **Python more prominently**, and uses **logos/icons** to create a more engaging and professional look. Let me know if you need any more modifications! 🚀
